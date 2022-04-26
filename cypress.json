@@ -1,0 +1,7 @@
+{
+  "sauce": {
+    "build": "Cypress Kitchensink Example",
+    "tags": ["plugin", "kitchensink", "cypress"],
+    "region": "us-west-1"
+  }
+}
